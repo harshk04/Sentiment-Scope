@@ -8,6 +8,11 @@ SentimentScope is a simple web application built with Streamlit and Hugging Face
 - User-friendly interface.
 - Contact form to get in touch with the developer.
 
+
+<img width="1200" alt="Screenshot 2024-05-30 at 1 02 44 AM" src="https://github.com/harshk04/Sentiment-Scope/assets/115946158/5ea8d634-c543-4b49-83b3-56e4115d6af9">
+<img width="1200" alt="Screenshot 2024-05-30 at 1 07 47 AM" src="https://github.com/harshk04/Sentiment-Scope/assets/115946158/0e02ca3a-a2f1-4cb2-a8c5-ac4a4530f141">
+
+
 ## Getting Started
 
 ### Prerequisites
